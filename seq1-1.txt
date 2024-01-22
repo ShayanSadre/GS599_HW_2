@@ -1,0 +1,3 @@
+GATCCAT
+line2
+line3
